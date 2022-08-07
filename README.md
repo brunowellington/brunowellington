@@ -38,5 +38,5 @@
 </div>
 
 <div>
-  https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
+  ![grid-snake](https://user-images.githubusercontent.com/83995825/183307290-ca5d46a8-3edb-4096-a6f1-78b263970f76.svg)
 </div>
