@@ -3,7 +3,7 @@
 - 🎓- Técnico em Informática - EEEP, Mauriti - CE;
 - 🎓- Graduando em Tecnologia da Informação (T.I.) - UFERSA, Campus Pau dos Ferros - RN;
 
-## 📊 Estatisticas
+## 📊 Estatísticas
 
 <div>
   <a href="https://github.com/brunowell-aLenda">
@@ -28,7 +28,7 @@
   <img align="center" alt="C" height="30" width="30" src="https://img.icons8.com/color/452/c-programming.png">
 </div>
 
-## 📩 Contato e redes socias
+## 📩 Contato e Redes Sociais
 
 <div>
   <a href="https://www.linkedin.com/in/bruno-wellington-b17b04198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -37,6 +37,7 @@
   <a href="mailto:brunobezerramauriti1#@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">></a>
 </div>
 
+## 🐍 Snake Comendo os Commits
 <div>
-  ![grid-snake](https://user-images.githubusercontent.com/83995825/183307290-ca5d46a8-3edb-4096-a6f1-78b263970f76.svg)
+  ![snake gif](https://github.com/brunowell-aLenda/brunowell-aLenda/blob/output/github-contribution-grid-snake.svg)
 </div>
