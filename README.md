@@ -15,6 +15,8 @@
  </a>
 </div>
 
+---- 
+
 ## 🛠 Conhecimentos
 
 <div style="display: inline_block"><br>
@@ -30,6 +32,8 @@
   <img align="center" alt="Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
  
 </div>
+
+---- 
 
 ## 📩 Contato e Redes Sociais
 
