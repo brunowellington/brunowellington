@@ -7,7 +7,6 @@
 ---- 
 
 ## 📊 Estatísticas
-
 <div>
   <a href="https://github.com/brunowell-aLenda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunowell-aLenda&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -18,7 +17,6 @@
 ---- 
 
 ## 🛠 Conhecimentos
-
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
@@ -36,7 +34,6 @@
 ---- 
 
 ## 📩 Contato e Redes Sociais
-
 <div>
   
   <a href="https://www.linkedin.com/in/bruno-wellington-b17b04198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
