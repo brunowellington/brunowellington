@@ -16,16 +16,17 @@
 ## 🛠 Conhecimentos
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=148&color=002aff">
-  <img align="center" alt="TRELLO" height="30" width="40" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=148&color=002aff">
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jquery" height="30" width="40" src="https://icongr.am/devicon/jquery-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg">
-  <img align="center" alt="Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
   <img align="center" alt="C" height="30" width="30" src="https://img.icons8.com/color/452/c-programming.png">
+  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=148&color=002aff">
+  <img align="center" alt="TRELLO" height="30" width="40" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=148&color=002aff">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
+ 
 </div>
 
 ## 📩 Contato e Redes Sociais
