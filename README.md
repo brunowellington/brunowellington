@@ -39,6 +39,3 @@
 
 </div>
 
-## 🐍 Snake Comendo os Commits
-  ![snake gif](https://github.com/brunowell-aLenda/brunowell-aLenda/blob/output/github-contribution-grid-snake.svg)
-
