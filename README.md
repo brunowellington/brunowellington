@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm Bruno Wellington!
 
+Sou entusiastas e amante do mundo tecnológico.
+
 - 🎓- Técnico em Informática - EEEP, Mauriti - CE;
 - 🎓- Graduando em Tecnologia da Informação (T.I.) - UFERSA, Campus Pau dos Ferros - RN;
 
