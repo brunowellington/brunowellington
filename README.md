@@ -12,7 +12,6 @@ Sou entusiastas e amante do mundo tecnológico.
 ### 🕵️ Contato/Redes Sociais
 <div>
   <a href="https://www.linkedin.com/in/bruno-wellington-b17b04198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/brunowelll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:brunobezerramauriti1#@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
@@ -26,6 +25,7 @@ Sou entusiastas e amante do mundo tecnológico.
   <img align="center" alt="Jquery" height="30" width="40" src="https://icongr.am/devicon/jquery-original-wordmark.svg">
   <img align="center" alt="C" height="30" width="30" src="https://img.icons8.com/color/452/c-programming.png">
   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg">
+  <img align="center" alt="React Native" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=148&color=002aff">
   <img align="center" alt="TRELLO" height="30" width="40" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=148&color=002aff">
   <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
