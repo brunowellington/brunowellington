@@ -3,7 +3,8 @@
 Sou entusiastas e amante do mundo tecnológico.
 
 - 🎓- Técnico em Informática - EEEP, Mauriti - CE;
-- 🎓- Graduando em Tecnologia da Informação (T.I.) - UFERSA, Campus Pau dos Ferros - RN;
+- 🎓- Graduado em Tecnologia da Informação (TI) - UFERSA, Campus Pau dos Ferros - RN;
+- 🎓- Graduando em Engenharia de Software - UFERSA, Campus Pau dos Ferros - RN;
 
 ----
 
