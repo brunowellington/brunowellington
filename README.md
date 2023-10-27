@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Bruno Wellington!
+## 👋 Olá, me chamo Bruno Wellington!
 
 Sou entusiastas e amante do mundo tecnológico.
 
