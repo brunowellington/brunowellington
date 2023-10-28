@@ -34,13 +34,11 @@ Sou entusiastas e amante do mundo tecnológico.
 
 ----
 **Certificações**</br>
-AWS Academy Graduate - AWS Academy Cloud Architecting</br>
-<a target="_blank" href="https://www.credly.com/earner/earned/badge/a66e23e3-9f7d-49ef-9e31-510d0e3ed479">
-<img height="90" src="https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png"></a>
-
-AWS Academy Graduate - AWS Academy Cloud Foundations
+AWS Academy Graduate - AWS Academy Cloud Foundations e Architecting</br>
 <a target="_blank" href="https://www.credly.com/earner/earned/badge/da0cfd64-8d1e-411c-8b6b-21cca9edabdb">
 <img height="90" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"></a>
+<a target="_blank" href="https://www.credly.com/earner/earned/badge/a66e23e3-9f7d-49ef-9e31-510d0e3ed479">
+<img height="90" src="https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png"></a>
 
 ----
 
