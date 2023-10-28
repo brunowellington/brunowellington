@@ -24,7 +24,7 @@ Sou entusiastas e amante do mundo tecnológico.
 </div>
 
 ----
-### Certificações
+### 📝 Certificações
 AWS Academy Graduate - AWS Academy Cloud Foundations e Architecting</br>
 <a target="_blank" href="https://www.credly.com/earner/earned/badge/da0cfd64-8d1e-411c-8b6b-21cca9edabdb">
 <img height="90" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"></a>
