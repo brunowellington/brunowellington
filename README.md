@@ -8,15 +8,6 @@ Sou entusiastas e amante do mundo tecnológico.
 
 ----
 
-
-### 🕵️ Contato
-<div>
-  <a href="https://www.linkedin.com/in/bruno-wellington-b17b04198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:brunobezerramauriti1#@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
----- 
-
 ### 🛠 Conhecimentos
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
@@ -41,6 +32,15 @@ AWS Academy Graduate - AWS Academy Cloud Foundations e Architecting</br>
 <img height="90" src="https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png"></a>
 
 ----
+
+### 🕵️ Contato
+<div>
+  <a href="https://www.linkedin.com/in/bruno-wellington-b17b04198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:brunobezerramauriti1#@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+---- 
+
 
 ### 📊 Estatísticas
 <div>
