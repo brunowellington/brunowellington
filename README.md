@@ -44,9 +44,9 @@ AWS Academy Graduate - AWS Academy Cloud Foundations e Architecting</br>
 
 ### 📊 Estatísticas
 <div>
-  <a href="https://github.com/brunowell-aLenda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunowell-aLenda&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunowell-aLenda&layout=compact&langs_count=7&count_private=true&theme=chartreuse-dark"/>
+  <a href="https://github.com/brunowellington">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunowellington&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunowellington&layout=compact&langs_count=7&count_private=true&theme=chartreuse-dark"/>
  </a>
 </div>
 
